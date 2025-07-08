@@ -1,3 +1,3 @@
-# CMF-Net
-CMF-Net: Collaborative Multimodal Fusion Network
+# LCMF-Net
+LCMF-Net: A Lightweight Collaborative Multimodal Fusion Network for Brain Tumor Segmentation
 We will make the code publicly available when the paper is published.
